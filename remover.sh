@@ -34,7 +34,7 @@ echo "GMail"
 $adbs com.google.android.gm
 
 echo "Google Drive"
-$adbs $adbs com.google.android.apps.docs
+$adbs com.google.android.apps.docs
 
 echo "GMail Go"
 $adbs com.google.android.gm.lite
