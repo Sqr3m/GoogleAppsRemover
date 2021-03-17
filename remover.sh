@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/bash
 
 adbs="adb shell pm uninstall -k --user 0"
 
