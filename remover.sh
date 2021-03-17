@@ -4,8 +4,6 @@ adbs="adb shell pm uninstall -k --user 0"
 
 adb devices
 
-echo "It won't delete Google Play"
-
 echo "Google"
 $adbs com.google.android.googlequicksearchbox
 
